@@ -1,0 +1,12 @@
+C:\Projetos\ECommerceProject\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Projetos\ECommerceProject\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\ECommerceProject\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\ECommerceProject\Domain\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\ECommerceProject\Domain\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\ECommerceProject\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
